@@ -1,0 +1,38 @@
+_repo: The-Cradle-of-Mankind--Life-in-Eastern-Kurdistan_44417
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44417-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wigram, W. A. (William Ainger)
+    aliases:
+    - Wigram, William Ainger
+    - Wigram, W.A.
+    birthdate: 1872
+    deathdate: 1953
+    gutenberg_agent_id: '42744'
+    url: http://www.gutenberg.org/2009/agents/42744
+  - agent_name: Wigram, Edgar Thomas Ainger
+    aliases:
+    - Wigram, Edgar T. A. (Edgar Thomas Ainger)
+    - Wigram, Edgar Thomas Ainger, Sir
+    birthdate: 1864
+    gutenberg_agent_id: '42745'
+    url: http://www.gutenberg.org/2009/agents/42745
+description: ''
+gutenberg_issued: '2013-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44417'
+  lccn: '22027488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kurds'
+- !lcc 'DS'
+- !lcsh 'Kurdistan -- Description and travel'
+title: The Cradle of Mankind; Life in Eastern Kurdistan
+url: http://www.gutenberg.org/ebooks/44417
