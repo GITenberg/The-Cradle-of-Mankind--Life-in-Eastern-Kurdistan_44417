@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '42745'
     url: http://www.gutenberg.org/2009/agents/42745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44417#The-Cradle-of-Mankind--Life-in-Eastern-Kurdistan
 gutenberg_issued: '2013-12-13'
 gutenberg_type: Text
 identifiers:
